@@ -21,3 +21,31 @@ name2 = input("Type ur last name ")
 print(type(name))
 print("Your name is", len(name),"Long")
 print("Your name is", len(name),"Long and your last name is ", len(name2), "long")
+
+num_one = 5
+num_two = 4
+
+total = num_one + num_two
+
+diff = num_one - num_two
+
+product = num_one * num_two
+
+division = num_one / num_two
+
+remainder = num_one % num_two
+
+exp = num_one ** num_two
+
+floor_division = num_one // num_two
+
+radius = 30
+
+area_of_circle = 3.141529654(radius)**2
+
+circum_of_circle = 2(3.14129654)(radius)
+
+r = input("Type your radius of ur circle")
+
+area = 3.141529654(r)**2
+print (round (area, 2))
